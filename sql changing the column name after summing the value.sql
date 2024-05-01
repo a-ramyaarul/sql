@@ -1,0 +1,1 @@
+select sum(age) as total_marks from teacher

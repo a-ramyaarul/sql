@@ -1,0 +1,1 @@
+select avg(salary),dept from employee group by dept order by  dept asc

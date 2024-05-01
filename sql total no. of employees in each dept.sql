@@ -1,0 +1,1 @@
+select count(*), dept from employee group by dept 

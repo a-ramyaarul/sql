@@ -1,0 +1,1 @@
+select * from employee where dept = "it" order by salary desc 
